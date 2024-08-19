@@ -11,7 +11,7 @@
 
 - Site Reliability Engineering (SRE)
 - Data Analytics
-- Data Engineering
+- Application Support
 - Business Intelligence
 
 ## 🏅 Certifications
